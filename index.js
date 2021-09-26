@@ -47,7 +47,7 @@ let personalData = [
     correctAnswer: "Virat Kohli",
   },
   {
-    question: "5. My favourite song? ",
+    question: "6. My favourite song? ",
     correctAnswer: "Kiase Hua",
   },
 ];
